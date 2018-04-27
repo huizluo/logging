@@ -2,7 +2,7 @@
 go logger package
 
 # start
-go get github.com/huizluo/logging
+<code>go get github.com/huizluo/logging<code>
 
 more detail see examlpe 
 
