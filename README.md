@@ -1,4 +1,4 @@
-# logging
+# description
 go logger package
 
 # start
